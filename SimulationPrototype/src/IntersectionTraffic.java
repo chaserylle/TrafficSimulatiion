@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 
 public class IntersectionTraffic {
-
 	Scanner keyboard = new Scanner(System.in);
 	public Lane magsaysay;
 	public Lane harrison;
